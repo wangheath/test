@@ -1,0 +1,3 @@
+<view class="btn">
+<button open-type="getPhoneNumber" bindgetphonenumber="getPhoneNumber">获取电话号码</button>
+</view>
